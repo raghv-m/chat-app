@@ -1,0 +1,39 @@
+{
+  "name": "chat-app-yt",
+  "version": "1.0.0",
+  "description": "![Demo App](https://i.ibb.co/gFSMzKN/1.png)",
+  "main": "server.js",
+  "scripts": {
+    "server": "node backend/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "circular": "^1.0.5",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "dotnet": "^1.1.4",
+    "env": "^0.0.2",
+    "express": "^4.19.2",
+    "expresss": "^0.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "jsx": "^0.9.89",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2",
+    "node": "^18.20.2",
+    "nodejs": "^0.0.0",
+    "react": "^18.2.0",
+    "routers": "^0.1.3",
+    "socket.io": "^4.7.5",
+    "vite": "^5.2.9"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.0.3"
+  }
+}
